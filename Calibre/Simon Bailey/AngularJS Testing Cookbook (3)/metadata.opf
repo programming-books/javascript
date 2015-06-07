@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d43b47fa-794a-4253-90d3-0e03b7cf7e3e</dc:identifier>
+        <dc:title>AngularJS Testing Cookbook</dc:title>
+        <dc:creator opf:file-as="Bailey, Simon" opf:role="aut">Simon Bailey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.29.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-30T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Eliminate volatile code by taking control and understanding how to test AngularJS applications&lt;/strong&gt;&lt;/p&gt;&lt;h2&gt;About This Book&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Learn how to build a solid and more reliable AngularJS codebase through test-driven development using clearly defined recipes&lt;/li&gt;&lt;li&gt;Understand how to set up and configure your development environment for unit and end-to-end testing of AngularJS applications&lt;/li&gt;&lt;li&gt;Over 50 hands-on recipes to help you build a solid foundation in AngularJS&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Who This Book Is For&lt;/h2&gt;&lt;p&gt;This book is intended for developers who have an understanding of the basic principles behind both AngularJS and test-driven development. You, as a developer, are interested in eliminating the fear related to either introducing tests to an existing codebase or starting out testing on a fresh AngularJS application. If you're a team leader or part of a QA team with the responsibility of ensuring full test coverage of an application, then this book is ideal for you to comprehend the full testing scope required by your developers. Whether you're new to or are well versed with AngularJS, this book will guarantee a complete understanding of your application code and help reduce the cost of bugs.&lt;/p&gt;&lt;h2&gt;In Detail&lt;/h2&gt;&lt;p&gt;AngularJS stepped up to offer a comprehensive solution to frontend development with minimal dependencies and a clear set of objectives.&lt;/p&gt;&lt;p&gt;This book follows the AngularJS philosophy and offers guidance on how to approach testing components that make up the AngularJS framework. At the start of the book, you will explore how to configure your system to run unit and end-to-end tests. Following this, you'll become familiar with fundamental principles on testing AngularJS with Jasmine. Then, you'll understand how spies can enable you to test your code with greater coverage and simplicity throughout your application. The final result is an AngularJS application that is tested with integrity, helping facilitate a cleaner and more reliable codebase.&lt;/p&gt;&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing - ebooks Account</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781783983742</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1783983744</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Simon Bailey&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-04T23:07:17.067225+00:00" name="calibre:timestamp"/>
+        <meta content="AngularJS Testing Cookbook" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
